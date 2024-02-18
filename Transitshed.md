@@ -28,10 +28,6 @@ As can be seen in the figures above, there is a large gap in the transitshed alo
 
 With the IDOT proposal for the IL 83 widening, the hope is that this will bring along new bus routes and sidewalks to the right of way. As it currently stands, it is incredibly difficult for people in certain areas on this major arterial roadway to get to common areas, such as grocery stores.
 
-### Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ### References
 
 Illinois Department of Transportation (IDOT). February 24, 2021. Community Advisory Group (CAG) Meeting #5 [Presentation]. Illinois Department of Transportation.  https://idot.illinois.gov/content/dam/soi/en/web/idot/documents/idot-projects/district-1/il-route-83-il-route-137-study/cag5/pi_2021.2.24_cag-5_presentation_final.pdf 
