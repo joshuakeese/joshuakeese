@@ -1,8 +1,13 @@
 ## Portfolio
 
 ---
+### Automatic Line Drafting using the Hough Transformation
 
-### GIS Projects 
+[Line Detection](/linedetect)
+<img src="images/OrthoImagesLines.png?raw=True"/>
+
+---
+### Transitshed Analysis for the Illinois 83 Widening
 
 [Transitshed Analysis](/Transitshed)
 <img src="images/Transitshed.jpg?raw=true"/>
