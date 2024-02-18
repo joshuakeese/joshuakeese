@@ -4,7 +4,7 @@
 
 ### GIS Projects 
 
-[Transitshed Analysis](/sample_page)
+[Transitshed Analysis](/Transitshed)
 <img src="images/Transitshed.jpg?raw=true"/>
 
 ---
