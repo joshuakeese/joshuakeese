@@ -4,7 +4,7 @@
 ### Automatic Line Drafting using the Hough Transformation
 
 [Line Detection](/linedetect)
-<img src="images/OrthoImagesLines.png?raw=True"/>
+<img src="images/OrthoImageLines.png?raw=True"/>
 
 ---
 ### Transitshed Analysis for the Illinois 83 Widening
