@@ -8,7 +8,7 @@
 
 ---
 ### Google Earth Engine - Split Land Cover
-< a href="website name"><img src="images/splitlandcover.png"></a>
+<a href="https://green-alchemy-148219.projects.earthengine.app/view/keesesplitlandcover"><img src="images/splitlandcover.png"></a>
 
 ---
 ### Alternative Fuel Facility Locations in Chicagoland
