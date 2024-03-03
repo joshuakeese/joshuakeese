@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/joshua-keese-b0618bba/">View My LinkedIn Profile</a> 
   <br>
+  <a href="https://www.github.com/joshuakeese">View My GitHub Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
